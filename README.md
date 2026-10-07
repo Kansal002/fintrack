@@ -2,7 +2,7 @@
 
 **Track income, expenses and budgets in a fast, accessible dashboard — built with Next.js 16, React 19, React Query and Tailwind CSS v4.**
 
-[**Live demo →**](https://<your-site>.netlify.app) &nbsp;·&nbsp; No sign-up needed: click **“Try demo account”** on the login page.
+[**Live demo →**](https://abhinav-fintrack.netlify.app) &nbsp;·&nbsp; No sign-up needed: click **“Try demo account”** on the login page.
 
 [![CI](https://github.com/Kansal002/fintrack/actions/workflows/ci.yml/badge.svg)](https://github.com/Kansal002/fintrack/actions/workflows/ci.yml)
 
